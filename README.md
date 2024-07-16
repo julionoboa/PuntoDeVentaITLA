@@ -13,6 +13,8 @@
 1. **Error: Uso Incorrecto de Constante `yes`**
    - **Archivo:** `ControlesBasicos.java`
    - **Mensaje de Error:**
+   
+    ![](src/screensframework/img/1.png)
      ```java
      if (pregunta == yes) {
      ```
@@ -25,6 +27,7 @@
 2. **Error: Clase `PreparedStatement` No Encontrada**
    - **Archivo:** `ProductoController.java`
    - **Mensaje de Error:**
+   ![](src/screensframework/img/2.png)
      ```java
      java: cannot find symbol
        symbol:   class PreparedStatement
@@ -37,6 +40,7 @@
 3. **Error: Variable `n` No Declarada**
    - **Archivo:** `ProductoController.java`
    - **Mensaje de Error:**
+   ![](src/screensframework/img/3.png)
      ```java
      java: cannot find symbol
        symbol:   variable n
@@ -49,6 +53,7 @@
 4. **Error: Uso Incorrecto de Variable `Options`**
    - **Archivo:** `RegistroController.java`
    - **Mensaje de Error:**
+     ![](src/screensframework/img/4.png)
      ```java
      java: cannot find symbol
        symbol:   variable Options
@@ -129,3 +134,4 @@
 ### Resumen:
 
 El informe detalla los errores encontrados durante la inspección del código y las soluciones implementadas para corregirlos. Con estas correcciones, la aplicación de Punto de Venta en Java FX con PostgreSQL debería funcionar correctamente.
+![](src/screensframework/img/5.png)
